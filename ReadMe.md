@@ -1,7 +1,11 @@
 # Account API For Existing Customer
+
 ---
+
 #### Spring Boot and ReactJS Application
+
 ---
+
 This project provides to create account for existing customers.
 ## Summary
 The assessment consists of an API to be used for opening a new “current account” of already existing customers.
@@ -21,8 +25,11 @@ GET /v1/customer/{customerId} - retrieves a customer
 GET /v1/customer - retrieves all customers
 ```
 JUnit test coverage is 100% as well as integration tests are available.
-## Tech Stack
+
+### Tech Stack
+ 
 ---
+
 - Java 11
 - Spring Boot
 - Spring Data JPA
